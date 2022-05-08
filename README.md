@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/NyPdxf6/red-icon.png" width="100">
+  <img src="https://i.ibb.co/1s8MsLS/red.png" width="100">
   <br>
   NLW Return - Trilha Impulse - Backend
 </h1>
 
 <p align="center">
-  <a href="https://nlw-impulse-return-web.vercel.app">View demo</a>
+  <a href="https://nlw-impulse-return-web.vercel.app">Demonstração</a>
 </p>
 
 <p align="center">
